@@ -64,7 +64,7 @@ The model's performance is evaluated using the training loss curve:
 
 The decreasing loss indicates that the model is learning to generate more accurate predictions over time.
 
-![Training Loss Curve](training_loss_curve.png)
+![Training Loss Curve](output.png)
 
 ## Usage
 
